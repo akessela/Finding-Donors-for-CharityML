@@ -21,4 +21,4 @@ You will need the standard data science libraries found in the Anaconda distribu
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income) for the data and   [Udacity](https://www.udacity.com/courses/all) for creating a beautiful learning experince.  Find the Licensing for the data and other descriptive information from [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+Must give credit to [UC Irvine](https://archive.ics.uci.edu/ml/datasets/Census+Income) for the data and   [Udacity](https://www.udacity.com/courses/all) for creating a beautiful learning experince.  Find the Licensing for the data and other descriptive information from [UC Irvine ML Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income).
