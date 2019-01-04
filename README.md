@@ -28,7 +28,7 @@ in machine learning to understand how to select an appropriate machine learning 
 In this project, I applied supervised learning techniques on data collected for the U.S. census to help CharityML ( a fictious charity organization) identify people most likely to donate to their cause.
 Specificically the following items have been covered in the analysis:
 * explore the data and learn how the census data is recorded
-* apply a series of transformations and preprocessing techniques to manipulate teh data into workable format.
+* apply a series of transformations and preprocessing techniques to manipulate the data into workable format.
 * Evaluate several supervised learners on the data, and consider which is best suited for the solution.
 
 ## File Descriptions <a name="files"></a>
@@ -38,7 +38,7 @@ Specificically the following items have been covered in the analysis:
 
 ## Results<a name="results"></a>
 
-Please the notebook for analysis and results.
+Please see notebook for analysis and results.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
